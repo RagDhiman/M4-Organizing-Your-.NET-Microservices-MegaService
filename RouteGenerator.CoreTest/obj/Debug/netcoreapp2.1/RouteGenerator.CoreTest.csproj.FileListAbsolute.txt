@@ -1,0 +1,27 @@
+C:\Users\ragub\Source\Repos\RouteGenerator\RouteGenerator.CoreTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ragub\Source\Repos\RouteGenerator\RouteGenerator.CoreTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ragub\Source\Repos\RouteGenerator\RouteGenerator.CoreTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ragub\Source\Repos\RouteGenerator\RouteGenerator.CoreTest\bin\Debug\netcoreapp2.1\RouteGenerator.CoreTest.deps.json
+C:\Users\ragub\Source\Repos\RouteGenerator\RouteGenerator.CoreTest\bin\Debug\netcoreapp2.1\RouteGenerator.CoreTest.runtimeconfig.json
+C:\Users\ragub\Source\Repos\RouteGenerator\RouteGenerator.CoreTest\bin\Debug\netcoreapp2.1\RouteGenerator.CoreTest.runtimeconfig.dev.json
+C:\Users\ragub\Source\Repos\RouteGenerator\RouteGenerator.CoreTest\bin\Debug\netcoreapp2.1\RouteGenerator.CoreTest.dll
+C:\Users\ragub\Source\Repos\RouteGenerator\RouteGenerator.CoreTest\bin\Debug\netcoreapp2.1\RouteGenerator.CoreTest.pdb
+C:\Users\ragub\Source\Repos\RouteGenerator\RouteGenerator.CoreTest\obj\Debug\netcoreapp2.1\RouteGenerator.CoreTest.csprojAssemblyReference.cache
+C:\Users\ragub\Source\Repos\RouteGenerator\RouteGenerator.CoreTest\obj\Debug\netcoreapp2.1\RouteGenerator.CoreTest.csproj.CoreCompileInputs.cache
+C:\Users\ragub\Source\Repos\RouteGenerator\RouteGenerator.CoreTest\obj\Debug\netcoreapp2.1\RouteGenerator.CoreTest.AssemblyInfoInputs.cache
+C:\Users\ragub\Source\Repos\RouteGenerator\RouteGenerator.CoreTest\obj\Debug\netcoreapp2.1\RouteGenerator.CoreTest.AssemblyInfo.cs
+C:\Users\ragub\Source\Repos\RouteGenerator\RouteGenerator.CoreTest\obj\Debug\netcoreapp2.1\RouteGenerator.CoreTest.dll
+C:\Users\ragub\Source\Repos\RouteGenerator\RouteGenerator.CoreTest\obj\Debug\netcoreapp2.1\RouteGenerator.CoreTest.pdb
+C:\Users\ragub\Source\Repos\Plumber Scheduling Mega Solution\PlumberScheduling\RouteGenerator.CoreTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ragub\Source\Repos\Plumber Scheduling Mega Solution\PlumberScheduling\RouteGenerator.CoreTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ragub\Source\Repos\Plumber Scheduling Mega Solution\PlumberScheduling\RouteGenerator.CoreTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ragub\Source\Repos\Plumber Scheduling Mega Solution\PlumberScheduling\RouteGenerator.CoreTest\bin\Debug\netcoreapp2.1\RouteGenerator.CoreTest.deps.json
+C:\Users\ragub\Source\Repos\Plumber Scheduling Mega Solution\PlumberScheduling\RouteGenerator.CoreTest\bin\Debug\netcoreapp2.1\RouteGenerator.CoreTest.runtimeconfig.json
+C:\Users\ragub\Source\Repos\Plumber Scheduling Mega Solution\PlumberScheduling\RouteGenerator.CoreTest\bin\Debug\netcoreapp2.1\RouteGenerator.CoreTest.runtimeconfig.dev.json
+C:\Users\ragub\Source\Repos\Plumber Scheduling Mega Solution\PlumberScheduling\RouteGenerator.CoreTest\bin\Debug\netcoreapp2.1\RouteGenerator.CoreTest.dll
+C:\Users\ragub\Source\Repos\Plumber Scheduling Mega Solution\PlumberScheduling\RouteGenerator.CoreTest\bin\Debug\netcoreapp2.1\RouteGenerator.CoreTest.pdb
+C:\Users\ragub\Source\Repos\Plumber Scheduling Mega Solution\PlumberScheduling\RouteGenerator.CoreTest\obj\Debug\netcoreapp2.1\RouteGenerator.CoreTest.csproj.CoreCompileInputs.cache
+C:\Users\ragub\Source\Repos\Plumber Scheduling Mega Solution\PlumberScheduling\RouteGenerator.CoreTest\obj\Debug\netcoreapp2.1\RouteGenerator.CoreTest.AssemblyInfoInputs.cache
+C:\Users\ragub\Source\Repos\Plumber Scheduling Mega Solution\PlumberScheduling\RouteGenerator.CoreTest\obj\Debug\netcoreapp2.1\RouteGenerator.CoreTest.AssemblyInfo.cs
+C:\Users\ragub\Source\Repos\Plumber Scheduling Mega Solution\PlumberScheduling\RouteGenerator.CoreTest\obj\Debug\netcoreapp2.1\RouteGenerator.CoreTest.dll
+C:\Users\ragub\Source\Repos\Plumber Scheduling Mega Solution\PlumberScheduling\RouteGenerator.CoreTest\obj\Debug\netcoreapp2.1\RouteGenerator.CoreTest.pdb

@@ -1,0 +1,28 @@
+C:\Users\ragub\Source\Repos\RouteGenerator\RouteGenerator.DataAccessTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ragub\Source\Repos\RouteGenerator\RouteGenerator.DataAccessTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ragub\Source\Repos\RouteGenerator\RouteGenerator.DataAccessTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ragub\Source\Repos\RouteGenerator\RouteGenerator.DataAccessTest\bin\Debug\netcoreapp2.1\RouteGenerator.DataAccessTest.deps.json
+C:\Users\ragub\Source\Repos\RouteGenerator\RouteGenerator.DataAccessTest\bin\Debug\netcoreapp2.1\RouteGenerator.DataAccessTest.runtimeconfig.json
+C:\Users\ragub\Source\Repos\RouteGenerator\RouteGenerator.DataAccessTest\bin\Debug\netcoreapp2.1\RouteGenerator.DataAccessTest.runtimeconfig.dev.json
+C:\Users\ragub\Source\Repos\RouteGenerator\RouteGenerator.DataAccessTest\bin\Debug\netcoreapp2.1\RouteGenerator.DataAccessTest.dll
+C:\Users\ragub\Source\Repos\RouteGenerator\RouteGenerator.DataAccessTest\bin\Debug\netcoreapp2.1\RouteGenerator.DataAccessTest.pdb
+C:\Users\ragub\Source\Repos\RouteGenerator\RouteGenerator.DataAccessTest\obj\Debug\netcoreapp2.1\RouteGenerator.DataAccessTest.csprojAssemblyReference.cache
+C:\Users\ragub\Source\Repos\RouteGenerator\RouteGenerator.DataAccessTest\obj\Debug\netcoreapp2.1\RouteGenerator.DataAccessTest.csproj.CoreCompileInputs.cache
+C:\Users\ragub\Source\Repos\RouteGenerator\RouteGenerator.DataAccessTest\obj\Debug\netcoreapp2.1\RouteGenerator.DataAccessTest.AssemblyInfoInputs.cache
+C:\Users\ragub\Source\Repos\RouteGenerator\RouteGenerator.DataAccessTest\obj\Debug\netcoreapp2.1\RouteGenerator.DataAccessTest.AssemblyInfo.cs
+C:\Users\ragub\Source\Repos\RouteGenerator\RouteGenerator.DataAccessTest\obj\Debug\netcoreapp2.1\RouteGenerator.DataAccessTest.dll
+C:\Users\ragub\Source\Repos\RouteGenerator\RouteGenerator.DataAccessTest\obj\Debug\netcoreapp2.1\RouteGenerator.DataAccessTest.pdb
+C:\Users\ragub\Source\Repos\Plumber Scheduling Mega Solution\PlumberScheduling\RouteGenerator.DataAccessTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ragub\Source\Repos\Plumber Scheduling Mega Solution\PlumberScheduling\RouteGenerator.DataAccessTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ragub\Source\Repos\Plumber Scheduling Mega Solution\PlumberScheduling\RouteGenerator.DataAccessTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ragub\Source\Repos\Plumber Scheduling Mega Solution\PlumberScheduling\RouteGenerator.DataAccessTest\bin\Debug\netcoreapp2.1\RouteGenerator.DataAccessTest.deps.json
+C:\Users\ragub\Source\Repos\Plumber Scheduling Mega Solution\PlumberScheduling\RouteGenerator.DataAccessTest\bin\Debug\netcoreapp2.1\RouteGenerator.DataAccessTest.runtimeconfig.json
+C:\Users\ragub\Source\Repos\Plumber Scheduling Mega Solution\PlumberScheduling\RouteGenerator.DataAccessTest\bin\Debug\netcoreapp2.1\RouteGenerator.DataAccessTest.runtimeconfig.dev.json
+C:\Users\ragub\Source\Repos\Plumber Scheduling Mega Solution\PlumberScheduling\RouteGenerator.DataAccessTest\bin\Debug\netcoreapp2.1\RouteGenerator.DataAccessTest.dll
+C:\Users\ragub\Source\Repos\Plumber Scheduling Mega Solution\PlumberScheduling\RouteGenerator.DataAccessTest\bin\Debug\netcoreapp2.1\RouteGenerator.DataAccessTest.pdb
+C:\Users\ragub\Source\Repos\Plumber Scheduling Mega Solution\PlumberScheduling\RouteGenerator.DataAccessTest\obj\Debug\netcoreapp2.1\RouteGenerator.DataAccessTest.csproj.CoreCompileInputs.cache
+C:\Users\ragub\Source\Repos\Plumber Scheduling Mega Solution\PlumberScheduling\RouteGenerator.DataAccessTest\obj\Debug\netcoreapp2.1\RouteGenerator.DataAccessTest.AssemblyInfoInputs.cache
+C:\Users\ragub\Source\Repos\Plumber Scheduling Mega Solution\PlumberScheduling\RouteGenerator.DataAccessTest\obj\Debug\netcoreapp2.1\RouteGenerator.DataAccessTest.AssemblyInfo.cs
+C:\Users\ragub\Source\Repos\Plumber Scheduling Mega Solution\PlumberScheduling\RouteGenerator.DataAccessTest\obj\Debug\netcoreapp2.1\RouteGenerator.DataAccessTest.dll
+C:\Users\ragub\Source\Repos\Plumber Scheduling Mega Solution\PlumberScheduling\RouteGenerator.DataAccessTest\obj\Debug\netcoreapp2.1\RouteGenerator.DataAccessTest.pdb
+C:\Users\ragub\Source\Repos\Plumber Scheduling Mega Solution\PlumberScheduling\RouteGenerator.DataAccessTest\obj\Debug\netcoreapp2.1\RouteGenerator.DataAccessTest.csprojAssemblyReference.cache
